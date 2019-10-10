@@ -1,0 +1,12 @@
+{
+  "name": "tableau-wdc-tutorial-part-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mikemooreviz/tableau-wdc-tutorial-part-1",
+  "author": "Mike Moore <mikemooreviz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
